@@ -1,6 +1,6 @@
 ### SQL
 
-1. Workput on AdventureWorks2016 database
+**1. Workput on AdventureWorks2016 database**
 
 
 This is based on a case study of being a data analyst of the Adventure Works Cycles to provide business insights for the following:
